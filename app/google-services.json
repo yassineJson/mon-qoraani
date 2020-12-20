@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338163231085",
+    "firebase_url": "https://myqoraani.firebaseio.com",
+    "project_id": "myqoraani",
+    "storage_bucket": "myqoraani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338163231085:android:a0f2126ecbb1bfbb439264",
+        "android_client_info": {
+          "package_name": "com.my.muquran.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338163231085-6gccb6pnhm3h1du2lssqglnld7pt4t5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVoeSr3vo58pIHbxqzE6_rIhTw6D-3BCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338163231085-6gccb6pnhm3h1du2lssqglnld7pt4t5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
